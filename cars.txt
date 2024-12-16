@@ -1,0 +1,7 @@
+Model,Brand,Year
+camero,chevy,1994
+440,BMW,2020
+mustang,ford,1980
+swift,MS,2000
+a6,audi,2005
+polo,VW,2000
